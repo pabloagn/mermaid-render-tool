@@ -1,0 +1,11 @@
+{
+  "puppeteerConfig": {
+    "args": [
+      "--no-sandbox"
+    ]
+  },
+  "screenshotConfig": {
+    "omitBackground": true,
+    "scale": 4.166666666666667
+  }
+}
